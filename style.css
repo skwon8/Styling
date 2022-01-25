@@ -1,0 +1,23 @@
+.container {
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    background-color: black;
+}
+#first {
+    color: aqua;
+}
+
+#second {
+    color: white;
+    text-align: center;
+    font-weight: light;
+    background-color: rebeccapurple;
+}
+
+#third {
+    text-align: right;
+    font-weight: normal;
+    background-color: skyblue;
+    text-decoration: underline;
+}
